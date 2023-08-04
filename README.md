@@ -27,7 +27,7 @@ Uses Arduino Mega 2560 RC522 and LCD screen to display UID card or tag.
 |RW/5| GND| |
 |RS/4| 7| |
 |EN/6| 8| |
-|D/14|| 12| |
+|D7/14|12| |
 |D6/13|11| |
 |D5/12|10| |
 |D4/11|9| |
