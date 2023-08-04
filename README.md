@@ -9,7 +9,7 @@ Uses Arduino Mega 2560 RC522 and LCD screen to display UID card or tag.
 
 **MFRC522 to Arduino Mega**    
 |MFRC522 Reader| Arduino|
-|-----------------------|
+|--------------|--------|
 |3.3V|3.3V|
 |GND|GND|
 |RST|5|
@@ -20,7 +20,7 @@ Uses Arduino Mega 2560 RC522 and LCD screen to display UID card or tag.
 
 **LCD to Arduino Mega**
 |LCD Pin| Arduino Pin|Potentiometer|
-|------------|
+|-------|-------------|------------|
 |15|5V|Front Right Leg|
 |16|GND|Front Left Leg|
 |3| |Back Leg|
