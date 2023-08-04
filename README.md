@@ -1,5 +1,5 @@
 # UID and LCD    
-Uses Arduino Mega 2560 RC522 and LCD screen to display UID card or tag. 
+Uses Arduino Mega 2560 RC522 and LCD screen to display UID card or tag on LCD. 
 
 **Hardware:**    
 -RC522 RFID reader   
